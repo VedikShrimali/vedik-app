@@ -1,0 +1,14 @@
+@media only screen and (max-width:1000px) {
+    .catogory{
+        color: #e7a329;
+        font-size: 13px;
+    }
+    .country{
+        color: #e7a329;
+         font-size: 13px;
+    }
+    .sidebar-child{
+        color: white;
+        font-size: 5px; 
+    }
+}

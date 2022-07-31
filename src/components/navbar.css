@@ -1,0 +1,157 @@
+/* .container{ 
+    display: flex; 
+    background-color:rgb(2, 2, 54); 
+    justify-content: space-between; 
+    align-items: center; 
+    color: #ffff;
+   
+ 
+} 
+.news{ 
+    margin-left: 1%; 
+    width: 12px;
+    justify-content: space-between;
+    display: flex;
+     
+} 
+.logo{
+    
+    width: 75px;
+   
+   
+    
+}
+.ho{ 
+    border: 2px;
+    width: 50px;
+    padding-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+   
+} 
+.abo{ 
+    border: 2px;
+    width: 50px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+} 
+.lim{ 
+    border: 2px;
+    width: 400px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+   
+   
+} 
+.button{ 
+    margin-left: 20%; 
+    text-align: center; 
+    border-radius: 5px; 
+    width: 300px;
+    
+} 
+
+.button .btn1{ 
+    background-color:#eba72f; 
+    border-radius:30px; 
+    width: 200px; 
+    height: 200px; 
+    padding:12px;
+    color: black;
+    text-decoration: none;
+
+   
+    
+}
+.home{
+   
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    color: aliceblue;
+    margin-left: 40%;
+    
+} */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 8vh;
+    width: 100vw;
+    background-color: #061826;
+}
+
+.navbar-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.img {
+    padding-top: 1px;
+    padding-left: 1vw;
+    height: 15vh;
+    width: 3vw;
+    border-radius: 5px;
+}
+
+.h3 {
+    color: #eba72f;
+    font-weight: 800;
+    padding: 0 1vh;
+    font-size: 2em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.link {
+    padding: 0 1vw;
+    margin: 3vw;
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    font-size: 1.2em;
+}
+
+.link:hover {
+    border-bottom: 2px solid orange;
+    color:green;
+}
+
+.nav-btn {
+    text-decoration: none;
+    padding: 5px;
+    margin-right: 5vw;
+    background-color:#eba72f;
+    color:rgb(4, 4, 37);
+    /* color: blue; */
+    border-radius: 10px;
+    /* border-bottom: 2px solid red; */
+}
+
+/* .nav-btn:hover {
+    background-color: aqua;
+    color: violet;
+} */
