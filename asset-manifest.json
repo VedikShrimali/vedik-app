@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/vini-app/static/css/main.7fbbf9b0.css",
+    "main.js": "/vini-app/static/js/main.cbeafa43.js",
+    "static/js/787.64bb24e2.chunk.js": "/vini-app/static/js/787.64bb24e2.chunk.js",
+    "static/media/bc12.jpg": "/vini-app/static/media/bc12.d9092ba74174598d3395.jpg",
+    "static/media/ab.jpg": "/vini-app/static/media/ab.45337d0d21559fd11395.jpg",
+    "index.html": "/vini-app/index.html",
+    "main.7fbbf9b0.css.map": "/vini-app/static/css/main.7fbbf9b0.css.map",
+    "main.cbeafa43.js.map": "/vini-app/static/js/main.cbeafa43.js.map",
+    "787.64bb24e2.chunk.js.map": "/vini-app/static/js/787.64bb24e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbbf9b0.css",
+    "static/js/main.cbeafa43.js"
+  ]
+}
